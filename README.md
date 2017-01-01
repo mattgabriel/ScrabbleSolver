@@ -2,7 +2,7 @@
 
 This program will do 2 things:
 
-1. Return a number of random letters that can be used to play Scrubble
+1. Return a number of random letters that can be used to play Scrabble
 2. Given a number of letters it will find all the words that can be formed with them
 
 
@@ -15,6 +15,7 @@ It currenlty uses an English dictionary but can also be extended to any other la
 ##Python: Get random letters##
 
 `cd Python`
+
 `python main.py` 
 
 This will return:
@@ -37,6 +38,7 @@ SOLUTIONS:
 ##Python: Get solution##
 
 `cd Python`
+
 `python main.py --letters lostpenis` 
 
 This will return
